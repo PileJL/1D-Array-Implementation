@@ -1,4 +1,5 @@
-**ALL OF US ARE AMUSED **
+**ALL OF US ARE AMUSED**
+
 (a console-based game inspired by All of Us Are Dead)
 
 The objective of this game is to primarily fulfill the

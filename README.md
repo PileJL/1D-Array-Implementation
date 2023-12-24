@@ -1,4 +1,4 @@
-**ALL OF US ARE AMUSED**
+# ALL OF US ARE AMUSED
 
 (a console-based game inspired by All of Us Are Dead)
 
